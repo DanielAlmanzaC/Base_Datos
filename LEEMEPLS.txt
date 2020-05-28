@@ -1,0 +1,18 @@
+Hola, hice esto como proyecto de base de datos:)
+
+Aprendí a hacer todo esto de conectar la DB a Pythonen una semana, 
+y lo de las interfaces gráficas lo busqué todo en YT en dos días jaja
+
+
+Lo dejo aquí por si a alguien le sirve, considerando que obviamente hay
+mucho por mejorar (estoy consciente de lo que le falta, me gustaría
+en un futuro cercano investigar más y poder mejorar mi aplicación)
+
+Obviamente no esperen que les corra esto en su Python si no tienen una Base de Datos,
+ustedes tienen que crearla primero y llenar todos los espacios que vienen al comienzo del código
+
+Supongo que es algo intuitivo lo que va pasando, intenté comentarlo pero no 
+al punto de que todo el código fuera comentario, pues muchas partes son puro 
+copy-paste del mismo código, pero con diferentes variables.
+
+
